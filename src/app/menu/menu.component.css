@@ -1,0 +1,16 @@
+.botones{
+    width: 200px;
+    height: 100px;
+    background-color: gray;
+    border-radius: 20px;
+    display: flex;
+}
+.boton{
+    float: left;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+}

@@ -1,0 +1,23 @@
+.contenedor-general{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background-color: rgb(51, 48, 48);
+    align-items: center;
+}
+.cajetin{
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+    height: 50vw;
+    background-color: white;
+}
+.botones{
+    display: flex;
+    flex-direction: column;
+    width: 10vw;
+    height: 10vw;
+    margin: 10px;
+}
